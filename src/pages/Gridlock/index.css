@@ -1,0 +1,12 @@
+.site-card-border-less-wrapper {
+    padding: 30px;
+  }
+.card {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+  }

@@ -1,0 +1,30 @@
+.site-card-border-less-wrapper {
+  padding: 30px;
+  white-space:pre-line;
+}
+.ncenter{
+text-align: center;
+background-color: #f0f2f5;
+
+}
+.nleft{
+text-align: left;
+}
+.container {
+height: 100%;
+width: 300;
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+
+}
+.ant-input:-webkit-autofill {
+  box-shadow: 0 0 0 1000px #8d8d8d inset;
+}
+.ant-input:hover, input:focus {
+  box-shadow: 0 0 0 1000px #b8b0b0 inset;
+}
+.Bright{
+  float: right;
+}

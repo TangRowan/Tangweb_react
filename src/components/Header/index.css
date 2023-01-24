@@ -1,0 +1,23 @@
+.ant-layout-header {
+  margin:0;
+  background: #fff !important;
+
+}
+.hleft{
+  float: left;
+  margin:0;
+}
+.hright{
+  float: right;
+  margin:0;
+}
+.hright2{
+  float: right;
+  margin:0;
+  width: 380px;
+}
+.fix-header {
+  position: fixed;
+  top: 0;
+  right: 0;
+}

@@ -1,0 +1,26 @@
+.site-card-border-less-wrapper {
+  padding: 30px;
+  white-space:pre-line;
+}
+
+.ncenter{
+text-align: center;
+background-color: #f0f2f5;
+
+}
+.nleft{
+text-align: left;
+}
+.container {
+height: 100%;
+width: 300;
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+
+}
+
+.Bright{
+  float: right;
+}

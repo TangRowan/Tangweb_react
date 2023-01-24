@@ -1,0 +1,8 @@
+.ncenter{
+  text-align: center;
+  background-color: #f0f2f5;
+  justify-Content:'space-between'
+}
+.row{
+  padding: 8px 0;
+}
